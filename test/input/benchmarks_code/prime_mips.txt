@@ -1,0 +1,13 @@
+Enter the number of prime numbers required
+First 10 prime numbers are :
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+

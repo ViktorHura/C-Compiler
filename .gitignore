@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+.vscode
+
+generated
+__pycache__
+.pytest_cache
+
+
+env
+*.egg-info
+
+*.png
+test/**/*.asm
+test/**/*.ll
